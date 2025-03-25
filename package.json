@@ -1,0 +1,21 @@
+{
+  "name": "orbez",
+  "version": "1.0.0",
+  "description": "OrbEZ is a Layer 3 DeFi joint on the orbit chain, stacking speed and slashing fees on top of L2. Smooth swaps, stakes, and yields—no stress, just gains. Orbiting transactions with that EZ flow. Open-source hustle for the real ones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.2.0",
+    "ethers": "^6.13.5",
+    "hardhat": "^2.22.19",
+    "rustc": "^1.74.0",
+    "typescript": "^5.8.2",
+    "wasm-pack": "^0.13.1"
+  }
+}
